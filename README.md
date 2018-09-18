@@ -14,7 +14,7 @@ In some study Red is measured as the lowest power consuming color <br/>
 But in our case it was green. This is probably the specific Pixel XL device issue.<br/>
 <br/>
 
-##### SVM Modeling
+# SVM Modeling
 <br/>
 
 <img width="800" src="https://user-images.githubusercontent.com/30307587/45685148-61c1c980-bb83-11e8-8524-6d0e9a9273bd.JPG">
