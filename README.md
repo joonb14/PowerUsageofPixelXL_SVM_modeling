@@ -14,6 +14,6 @@ In the case of only Red, Green, Blue Value<br/>
 ##### SVM Modeling
 <br/>
 
-<img width="400" src="https://user-images.githubusercontent.com/30307587/45685148-61c1c980-bb83-11e8-8524-6d0e9a9273bd.JPG">
-<img width="400" src="https://user-images.githubusercontent.com/30307587/45685149-61c1c980-bb83-11e8-9af9-ccf433a929f1.JPG">
-<img width="400" src="https://user-images.githubusercontent.com/30307587/45685150-625a6000-bb83-11e8-968a-adc54ac95a8a.JPG">
+<img width="800" src="https://user-images.githubusercontent.com/30307587/45685148-61c1c980-bb83-11e8-8524-6d0e9a9273bd.JPG">
+<img width="800" src="https://user-images.githubusercontent.com/30307587/45685149-61c1c980-bb83-11e8-9af9-ccf433a929f1.JPG">
+<img width="800" src="https://user-images.githubusercontent.com/30307587/45685150-625a6000-bb83-11e8-968a-adc54ac95a8a.JPG">
